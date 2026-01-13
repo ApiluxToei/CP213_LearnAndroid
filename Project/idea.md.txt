@@ -1,0 +1,12 @@
+Concept: AI Personal Music Coach (กีตาร์,กลอง)
+MVP
+
+Real-time Feedback: แจ้งเตือนท่าทางผิด (Posture) ทันทีด้วยเส้นกราฟิกสีเขียว/แดง ทับบนหน้าจอ (AR Overlay)
+
+Audio & Dynamics: ตรวจจับความแม่นยำของโน้ต (Pitch), จังหวะ (Rhythm) และน้ำหนักการเล่น (Volume Dynamics) ผ่านไมค์มือถือ
+
+Smart Practice: ระบบวอร์มอัพที่ AI ตรวจจับว่าทำท่าถูกไหม และ Metronome ที่แจ้งเตือนทันทีเมื่อเล่นหลุดจังหวะ (Rush/Drag)
+
+Performance Tracking: สรุปผลคะแนนแยก 3 ด้าน (ท่าทาง, ความแม่นยำ, จังหวะ) และ Heatmap แสดงความต่อเนื่องในการซ้อม
+
+Audio Focus: ตัดเสียงรบกวนรอบข้าง (Noise Cancellation) เพื่อให้โฟกัสเสียงเครื่องดนตรีได้แม่นยำขึ้น
